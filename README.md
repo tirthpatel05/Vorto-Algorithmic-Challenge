@@ -14,8 +14,8 @@ The total cost of a solution is given by: total_cost = 500*number_of_drivers + t
 
 Usage:
 
-To use the program, save it as vrp_solver.py and run it with the input file as an argument:
+To use the program, save it as vrp_solution.py and run it with the input file as an argument:
 
-    python vrp_solver.py input.txt
+    python vrp_solution.py <name_of_input_file>
 
 The program will print the assignments for each driver and then print the total cost at the end.
